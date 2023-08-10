@@ -1,0 +1,40 @@
+.form-wrapper{
+    border: 2px solid rgb(205, 23, 23);
+    padding: 20px;
+
+}
+.box-size{
+    width: 100%;
+    height: 38px;
+    outline: none;
+    
+}
+.box-size1{
+    height: 150px;
+}
+.box-size:focus{
+    border: 1px solid black;
+
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.n-button{
+    color: aliceblue;
+    background-color: rgb(205, 23, 23);
+    border: 1px solid black;
+
+}
+.contact{
+    border-left: 4px solid rgb(205, 23, 23);
+    padding: 10px;
+}
+.icon{
+    display: flex;
+    gap: 1rem;
+}
+.m-icon{
+    width: 35px!important;
+    height: 35px!important;
+    color: grey;
+}
